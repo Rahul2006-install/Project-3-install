@@ -21,7 +21,7 @@ It helps users manage daily expenses directly in the browser.
 2. Open "index.html" in your browser
 
 🌐 Live Demo
-https://rahul2006-install.github.io/expense-tracker/
+https://rahul2006-install.github.io/project-3-install/
 
 📌 Future Improvements (Soon)
 - Edit expenses
